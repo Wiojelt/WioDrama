@@ -1,0 +1,8 @@
+{
+  "name": "WioDrama",
+  "description": "CloudStream kısa drama sağlayıcıları",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/plugins.json"
+  ]
+}
