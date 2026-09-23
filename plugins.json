@@ -16,7 +16,7 @@
       "TvSeries",
       "AsianDrama"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.svg",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.png",
     "apiVersion": 1,
     "fileHash": "sha256-720682e915838e073e56dde09f56cd753f45cd9dc073e8150f06fdfe15cef538"
   },
@@ -37,7 +37,7 @@
       "TvSeries",
       "AsianDrama"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.svg",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.png",
     "apiVersion": 1,
     "fileHash": "sha256-39b537a988264af8e4579aaa049676c9b5528a21bdf4986368438130a3e36824"
   }
