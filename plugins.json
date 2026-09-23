@@ -1,15 +1,15 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/37e93b76fa1d16a4c1da2fe8e49c6c05d1c34561/DramaDizilerim.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/DramaDizilerim.cs3",
     "status": 3,
-    "version": 2,
+    "version": 3,
     "name": "DramaDizilerim",
     "internalName": "DramaDizilerim",
     "authors": [
       "Wiojelt"
     ],
     "description": "DramaDizilerim kısa dizi, Asya dizileri, GoodShort ve ReelShort Türkçe dublaj/altyazılı akışları.",
-    "fileSize": 18645,
+    "fileSize": 19694,
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
     "language": "tr",
     "tvTypes": [
@@ -18,7 +18,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.svg",
     "apiVersion": 1,
-    "fileHash": "sha256-6052fdf889a508866a5d7c8c896444227609a4cf1908d339a3a6939ea18a068e"
+    "fileHash": "sha256-720682e915838e073e56dde09f56cd753f45cd9dc073e8150f06fdfe15cef538"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/37e93b76fa1d16a4c1da2fe8e49c6c05d1c34561/NetShort.cs3",
