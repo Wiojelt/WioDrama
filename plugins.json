@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/DramaDizilerim.cs3",
+    "url": "https://github.com/Wiojelt/WioDrama/releases/download/wiodrama-artifacts-2026-09-23/DramaDizilerim.cs3",
     "status": 3,
     "version": 3,
     "name": "DramaDizilerim",
@@ -21,7 +21,7 @@
     "fileHash": "sha256-720682e915838e073e56dde09f56cd753f45cd9dc073e8150f06fdfe15cef538"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/37e93b76fa1d16a4c1da2fe8e49c6c05d1c34561/NetShort.cs3",
+    "url": "https://github.com/Wiojelt/WioDrama/releases/download/wiodrama-artifacts-2026-09-23/NetShort.cs3",
     "status": 3,
     "version": 2,
     "name": "NetShort",
