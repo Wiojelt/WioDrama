@@ -16,7 +16,7 @@
       "TvSeries",
       "AsianDrama"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.svg",
     "apiVersion": 1,
     "fileHash": "sha256-6052fdf889a508866a5d7c8c896444227609a4cf1908d339a3a6939ea18a068e"
   },
@@ -37,7 +37,7 @@
       "TvSeries",
       "AsianDrama"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.svg",
     "apiVersion": 1,
     "fileHash": "sha256-39b537a988264af8e4579aaa049676c9b5528a21bdf4986368438130a3e36824"
   }
