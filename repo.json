@@ -1,7 +1,7 @@
 {
   "name": "WioDrama",
   "description": "CloudStream kısa drama sağlayıcıları",
-  "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo-20260929.png",
+  "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo-20261004.png",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/plugins.json"
