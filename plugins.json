@@ -82,5 +82,26 @@
     "fileSize": 105705,
     "fileHash": "sha256-e5ed588fd0c2cecd908329f4e760c12e8335e71ee9d65e0780374071441ca4f1",
     "apiVersion": 1
+  },
+  {
+    "name": "trDRAMA",
+    "internalName": "TryDrama",
+    "version": 4,
+    "description": "trDRAMA · Türkçe dikey kısa drama dizileri ve mini diziler.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/TryDrama.cs3?v=6a3f368f67ae",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/trdrama.png",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 107379,
+    "fileHash": "sha256-6a3f368f67ae6583c74f453940f36551039d69ca444e4122a4d397787b9753ee",
+    "apiVersion": 1
   }
 ]
