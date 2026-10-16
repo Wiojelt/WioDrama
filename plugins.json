@@ -63,27 +63,6 @@
     "apiVersion": 1
   },
   {
-    "name": "DramaBox",
-    "internalName": "DramaBox",
-    "version": 1,
-    "description": "DramaBox · Popüler dikey kısa drama ve trend dizi akışları.",
-    "authors": [
-      "Wiojelt"
-    ],
-    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/DramaBox.cs3",
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.png",
-    "tvTypes": [
-      "AsianDrama",
-      "TvSeries"
-    ],
-    "language": "tr",
-    "status": 1,
-    "fileSize": 105705,
-    "fileHash": "sha256-e5ed588fd0c2cecd908329f4e760c12e8335e71ee9d65e0780374071441ca4f1",
-    "apiVersion": 1
-  },
-  {
     "name": "trDRAMA",
     "internalName": "TryDrama",
     "version": 4,
@@ -122,9 +101,9 @@
     "language": "tr",
     "status": 1,
     "fileSize": 106417,
-    "fileHash": "sha256-78eec3d7e59fe99aeaf08fa8d7a46cbb03432709e3ee7589d311fa841262d1c5",
+    "fileHash": "sha256-ad9c65acb78a6e56e26123415f008316cfed6269baf4c33dc2bf524f53cb3fd5",
     "apiVersion": 1,
-    "hash": "78eec3d7e59fe99aeaf08fa8d7a46cbb03432709e3ee7589d311fa841262d1c5"
+    "hash": "ad9c65acb78a6e56e26123415f008316cfed6269baf4c33dc2bf524f53cb3fd5"
   },
   {
     "name": "eloDRAMA",
@@ -147,5 +126,71 @@
     "fileHash": "sha256-0daba418e5fe16a8805ae376930f32d19e00f23ddff3a2957f70637d65645e4c",
     "apiVersion": 1,
     "hash": "0daba418e5fe16a8805ae376930f32d19e00f23ddff3a2957f70637d65645e4c"
+  },
+  {
+    "name": "dboxDRAMA",
+    "internalName": "DramaBox",
+    "version": 4,
+    "description": "dboxDRAMA · Popüler dikey kısa drama ve trend dizi akışları.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/dboxDRAMA.cs3?v=30d4542b2a81",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/dboxDRAMA.png",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 106017,
+    "fileHash": "sha256-30d4542b2a812f980c601ce6add613923b3b796d56699dbb7f8612f84e74c9e1",
+    "apiVersion": 1,
+    "hash": "30d4542b2a812f980c601ce6add613923b3b796d56699dbb7f8612f84e74c9e1"
+  },
+  {
+    "name": "dmaxDRAMA",
+    "internalName": "DmaxDrama",
+    "version": 3,
+    "description": "dmaxDRAMA · Popüler dikey kısa drama ve trend dizi akışları.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/dmaxDRAMA.cs3?v=de539d603190",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/dmaxDRAMA.png",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 112566,
+    "fileHash": "sha256-de539d6031902ff26f9427195f05bb00639a867c2a0d8fa122cd0e5fcba1ef22",
+    "apiVersion": 1,
+    "hash": "de539d6031902ff26f9427195f05bb00639a867c2a0d8fa122cd0e5fcba1ef22"
+  },
+  {
+    "name": "hiDRAMA",
+    "internalName": "HiDrama",
+    "version": 3,
+    "description": "hiDRAMA · Popüler dikey kısa drama ve trend dizi akışları.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/hiDRAMA.cs3?v=4a1e74e75c27",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/hiDRAMA.png",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 112378,
+    "fileHash": "sha256-4a1e74e75c27e803e39f68cb05923381cc34d907f63caa942332c45c545e5247",
+    "apiVersion": 1,
+    "hash": "4a1e74e75c27e803e39f68cb05923381cc34d907f63caa942332c45c545e5247"
   }
 ]
