@@ -192,5 +192,85 @@
     "fileHash": "sha256-4a1e74e75c27e803e39f68cb05923381cc34d907f63caa942332c45c545e5247",
     "apiVersion": 1,
     "hash": "4a1e74e75c27e803e39f68cb05923381cc34d907f63caa942332c45c545e5247"
+  },
+  {
+    "name": "bingbongDRAMA",
+    "internalName": "BingbongDrama",
+    "version": 4,
+    "description": "bingbongDRAMA · Popüler dikey kısa drama ve trend dizi akışları.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/bingbongDRAMA.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/bingbongDRAMA.png",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 116542,
+    "fileHash": "sha256-a330ff3e36cb620b7388599e764483e93f1d1b4ce879215a29d08a8ce5cc689a"
+  },
+  {
+    "name": "loveDRAMA",
+    "internalName": "LoveDrama",
+    "version": 4,
+    "description": "loveDRAMA · 1080p Full HD dikey kısa diziler ve romantik bölümler.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/loveDRAMA.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/loveDRAMA.png",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 107112,
+    "fileHash": "sha256-3a505a3ec9692ff8cdd4bb81bc768b784566643ad4c8b63bc495439dbb307728"
+  },
+  {
+    "name": "mtDRAMA",
+    "internalName": "MtDrama",
+    "version": 4,
+    "description": "mtDRAMA · Popüler dikey kısa drama ve trend dizi akışları.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/mtDRAMA.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/mtDRAMA.png",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 110034,
+    "fileHash": "sha256-fa87a3ceebd18e39df64ae92d8fc0381ea126537fcd6a69a572d93e0ff5822e7"
+  },
+  {
+    "name": "freeDRAMA",
+    "internalName": "FreeDrama",
+    "version": 4,
+    "description": "freeDRAMA · 1080p Full HD dikey kısa diziler ve trend bölümler.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/freeDRAMA.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/freeDRAMA.png",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 111982,
+    "fileHash": "sha256-a4eaed5b2c77876160b841387920dcf592a4c8cafdd0ae0a1e067bfbf2c8c862"
   }
 ]
