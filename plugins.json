@@ -2,14 +2,14 @@
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/drama/DramaDizilerim.cs3",
     "status": 3,
-    "version": 3,
+    "version": 1,
     "name": "DramaDizilerim",
     "internalName": "DramaDizilerim",
     "authors": [
       "Wiojelt"
     ],
     "description": "DramaDizilerim kısa dizi, Asya dizileri, GoodShort ve ReelShort Türkçe dublaj/altyazılı akışları.",
-    "fileSize": 113260,
+    "fileSize": 19119,
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
     "language": "tr",
     "tvTypes": [
@@ -18,19 +18,19 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.svg",
     "apiVersion": 1,
-    "fileHash": "sha256-ee53f6819325daa7c5d3dc6f2dd2ed54613120c663c128c8fc1d57b9f6274448"
+    "fileHash": "sha256-bab209cba987fa45d9d9135e4b5021473f27fbdd30c2cd3a3f302e784a01fb79"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/drama/NetShort.cs3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/drama/NetShort.cs3?v=585274dbae12_1792503587",
     "status": 3,
-    "version": 1,
+    "version": 2,
     "name": "NetShort",
     "internalName": "NetShort",
     "authors": [
       "Wiojelt"
     ],
     "description": "NetShort kısa dizi ve dikey mini drama Türkçe dublaj/altyazılı akışları.",
-    "fileSize": 29858,
+    "fileSize": 122160,
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
     "language": "tr",
     "tvTypes": [
@@ -39,7 +39,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.svg",
     "apiVersion": 1,
-    "fileHash": "sha256-43cf0849c058483d5a10e4486e41fb748a207d1dbacd7f083be148145143f037"
+    "fileHash": "sha256-585274dbae123b4ef0f6563cdee821248b9b57e6ba6925ce1a5bb71019096f05"
   },
   {
     "name": "WioShort",
