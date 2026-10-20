@@ -50,7 +50,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/WioShort.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/WioShort.cs3?v=58ee55e0bff1",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.png",
     "tvTypes": [
       "AsianDrama",
@@ -202,7 +202,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/bingbongDRAMA.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/bingbongDRAMA.cs3?v=a330ff3e36cb",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/bingbongDRAMA.png",
     "tvTypes": [
       "AsianDrama",
@@ -222,7 +222,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/loveDRAMA.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/loveDRAMA.cs3?v=3a505a3ec969",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/loveDRAMA.png",
     "tvTypes": [
       "AsianDrama",
@@ -242,7 +242,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/mtDRAMA.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/mtDRAMA.cs3?v=fa87a3ceebd1",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/mtDRAMA.png",
     "tvTypes": [
       "AsianDrama",
@@ -262,7 +262,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/freeDRAMA.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/freeDRAMA.cs3?v=a4eaed5b2c77",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/freeDRAMA.png",
     "tvTypes": [
       "AsianDrama",
@@ -272,5 +272,45 @@
     "status": 1,
     "fileSize": 111982,
     "fileHash": "sha256-a4eaed5b2c77876160b841387920dcf592a4c8cafdd0ae0a1e067bfbf2c8c862"
+  },
+  {
+    "name": "oiDRAMA",
+    "internalName": "OiDrama",
+    "version": 2,
+    "description": "oiDRAMA • Popüler dikey kısa drama ve trend dizi akışları.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/oiDRAMA.cs3?v=ed246f08fd54",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/oiDRAMA.png",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 112112,
+    "fileHash": "sha256-ed246f08fd547974de1d9ad2a705b576ad075a773f65ddaf0a1c340af8ee493a"
+  },
+  {
+    "name": "mcDRAMA",
+    "internalName": "McDrama",
+    "version": 4,
+    "description": "mcDRAMA • Micro Drama HD dikey kısa diziler ve mini seriler.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/mcDRAMA.cs3?v=9616707f94cf",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/mcDRAMA.png",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 106526,
+    "fileHash": "sha256-9616707f94cfae439aa1b6df13696cbedf3cdfce30e6efc3f66e359fd298cbcf"
   }
 ]
