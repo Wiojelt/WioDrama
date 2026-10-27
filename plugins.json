@@ -2,14 +2,14 @@
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/drama/DramaDizilerim.cs3",
     "status": 3,
-    "version": 3,
+    "version": 4,
     "name": "DramaDizilerim",
     "internalName": "DramaDizilerim",
     "authors": [
       "Wiojelt"
     ],
     "description": "DramaDizilerim kısa dizi, Asya dizileri, GoodShort ve ReelShort Türkçe dublaj/altyazılı akışları.",
-    "fileSize": 113260,
+    "fileSize": 113326,
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
     "language": "tr",
     "tvTypes": [
@@ -18,7 +18,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.svg",
     "apiVersion": 1,
-    "fileHash": "sha256-ee53f6819325daa7c5d3dc6f2dd2ed54613120c663c128c8fc1d57b9f6274448"
+    "fileHash": "sha256-d43b70c371c7d44ad7f261fd0d0e89dbdb9fb9dd5f07778f71f561111bb0738d"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/drama/NetShort.cs3?v=585274dbae12_1792503587",
