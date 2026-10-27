@@ -313,5 +313,68 @@
     "status": 1,
     "fileSize": 106526,
     "fileHash": "sha256-9616707f94cfae439aa1b6df13696cbedf3cdfce30e6efc3f66e359fd298cbcf"
+  },
+  {
+    "name": "freeDRAMA",
+    "internalName": "freeDRAMA",
+    "version": 5,
+    "description": "freeDRAMA · 1080p Full HD dikey kısa diziler ve trend bölümler (FreeReels API).",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/freeDRAMA.cs3?v=sha256-5f3be",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/freeDRAMA.png",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 112363,
+    "fileHash": "sha256-5f3be1add82c2cef629a32d448776b2ab930d3249d0ca16abd1eff42c61b59e2",
+    "apiVersion": 1
+  },
+  {
+    "name": "loveDRAMA",
+    "internalName": "loveDRAMA",
+    "version": 5,
+    "description": "loveDRAMA · 1080p Full HD dikey kısa diziler ve romantik bölümler (Canlı Firebase RTDB).",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/loveDRAMA.cs3?v=sha256-95f43",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/loveDRAMA.png",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 107112,
+    "fileHash": "sha256-95f437e3f257679445282a083f2b1a75f85a8ec6275d28fb41ba499fa463d827",
+    "apiVersion": 1
+  },
+  {
+    "name": "mcDRAMA",
+    "internalName": "mcDRAMA",
+    "version": 5,
+    "description": "mcDRAMA · Micro Drama HD dikey kısa diziler ve mini seriler (Canlı Şifreli Gateway).",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/mcDRAMA.cs3?v=sha256-0ee38",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/mcDRAMA.png",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 106526,
+    "fileHash": "sha256-0ee38e6728c1d656ef029ea15624330002a1b9c35cbd084c3c9d49d82f7db216",
+    "apiVersion": 1
   }
 ]
