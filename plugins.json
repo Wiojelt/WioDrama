@@ -1,45 +1,45 @@
 [
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/drama/DramaDizilerim.cs3",
-    "status": 3,
-    "version": 3,
     "name": "DramaDizilerim",
     "internalName": "DramaDizilerim",
+    "version": 4,
+    "description": "DramaDizilerim kısa dizi, Asya dizileri, GoodShort ve ReelShort Türkçe dublaj/altyazılı akışları.",
     "authors": [
       "Wiojelt"
     ],
-    "description": "DramaDizilerim kısa dizi, Asya dizileri, GoodShort ve ReelShort Türkçe dublaj/altyazılı akışları.",
-    "fileSize": 113260,
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "language": "tr",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/DramaDizilerim.cs3?v=d43b70c371c7",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.svg",
     "tvTypes": [
       "TvSeries",
       "AsianDrama"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.svg",
-    "apiVersion": 1,
-    "fileHash": "sha256-ee53f6819325daa7c5d3dc6f2dd2ed54613120c663c128c8fc1d57b9f6274448"
+    "language": "tr",
+    "status": 1,
+    "fileSize": 113326,
+    "fileHash": "sha256-d43b70c371c7d44ad7f261fd0d0e89dbdb9fb9dd5f07778f71f561111bb0738d",
+    "apiVersion": 1
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/drama/NetShort.cs3?v=585274dbae12_1792503587",
-    "status": 3,
-    "version": 2,
     "name": "NetShort",
     "internalName": "NetShort",
+    "version": 2,
+    "description": "NetShort kısa dizi ve dikey mini drama Türkçe dublaj/altyazılı akışları.",
     "authors": [
       "Wiojelt"
     ],
-    "description": "NetShort kısa dizi ve dikey mini drama Türkçe dublaj/altyazılı akışları.",
-    "fileSize": 122160,
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "language": "tr",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/NetShort.cs3?v=585274dbae12",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.svg",
     "tvTypes": [
       "TvSeries",
       "AsianDrama"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.svg",
-    "apiVersion": 1,
-    "fileHash": "sha256-585274dbae123b4ef0f6563cdee821248b9b57e6ba6925ce1a5bb71019096f05"
+    "language": "tr",
+    "status": 1,
+    "fileSize": 122160,
+    "fileHash": "sha256-585274dbae123b4ef0f6563cdee821248b9b57e6ba6925ce1a5bb71019096f05",
+    "apiVersion": 1
   },
   {
     "name": "WioShort",
@@ -65,13 +65,13 @@
   {
     "name": "trDRAMA",
     "internalName": "TryDrama",
-    "version": 5,
+    "version": 6,
     "description": "trDRAMA · Türkçe dikey kısa drama dizileri ve mini diziler.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/TryDrama.cs3?v=42d22a939265",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/TryDrama.cs3?v=caa87fa66967",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/trdrama.png",
     "tvTypes": [
       "AsianDrama",
@@ -80,9 +80,8 @@
     "language": "tr",
     "status": 1,
     "fileSize": 109291,
-    "fileHash": "sha256-42d22a939265f5e0abe168aff8aa44f8d1b55e1c4a63d567a17a086af03784aa",
-    "apiVersion": 1,
-    "hash": "42d22a939265f5e0abe168aff8aa44f8d1b55e1c4a63d567a17a086af03784aa"
+    "fileHash": "sha256-caa87fa66967869dace67e148fb14b2d1d4b2b6306906b91fe49025c636501e5",
+    "apiVersion": 1
   },
   {
     "name": "greatDRAMA",
@@ -103,8 +102,7 @@
     "status": 1,
     "fileSize": 106417,
     "fileHash": "sha256-ad9c65acb78a6e56e26123415f008316cfed6269baf4c33dc2bf524f53cb3fd5",
-    "apiVersion": 1,
-    "hash": "ad9c65acb78a6e56e26123415f008316cfed6269baf4c33dc2bf524f53cb3fd5"
+    "apiVersion": 1
   },
   {
     "name": "eloDRAMA",
@@ -125,8 +123,7 @@
     "status": 1,
     "fileSize": 107545,
     "fileHash": "sha256-0daba418e5fe16a8805ae376930f32d19e00f23ddff3a2957f70637d65645e4c",
-    "apiVersion": 1,
-    "hash": "0daba418e5fe16a8805ae376930f32d19e00f23ddff3a2957f70637d65645e4c"
+    "apiVersion": 1
   },
   {
     "name": "dboxDRAMA",
@@ -147,8 +144,7 @@
     "status": 1,
     "fileSize": 106017,
     "fileHash": "sha256-30d4542b2a812f980c601ce6add613923b3b796d56699dbb7f8612f84e74c9e1",
-    "apiVersion": 1,
-    "hash": "30d4542b2a812f980c601ce6add613923b3b796d56699dbb7f8612f84e74c9e1"
+    "apiVersion": 1
   },
   {
     "name": "dmaxDRAMA",
@@ -169,8 +165,7 @@
     "status": 1,
     "fileSize": 112566,
     "fileHash": "sha256-de539d6031902ff26f9427195f05bb00639a867c2a0d8fa122cd0e5fcba1ef22",
-    "apiVersion": 1,
-    "hash": "de539d6031902ff26f9427195f05bb00639a867c2a0d8fa122cd0e5fcba1ef22"
+    "apiVersion": 1
   },
   {
     "name": "hiDRAMA",
@@ -191,39 +186,18 @@
     "status": 1,
     "fileSize": 112378,
     "fileHash": "sha256-4a1e74e75c27e803e39f68cb05923381cc34d907f63caa942332c45c545e5247",
-    "apiVersion": 1,
-    "hash": "4a1e74e75c27e803e39f68cb05923381cc34d907f63caa942332c45c545e5247"
-  },
-  {
-    "name": "bingbongDRAMA",
-    "internalName": "BingbongDrama",
-    "version": 4,
-    "description": "bingbongDRAMA · Popüler dikey kısa drama ve trend dizi akışları.",
-    "authors": [
-      "Wiojelt"
-    ],
-    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/bingbongDRAMA.cs3?v=a330ff3e36cb",
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/bingbongDRAMA.png",
-    "tvTypes": [
-      "AsianDrama",
-      "TvSeries"
-    ],
-    "language": "tr",
-    "status": 1,
-    "fileSize": 116542,
-    "fileHash": "sha256-a330ff3e36cb620b7388599e764483e93f1d1b4ce879215a29d08a8ce5cc689a"
+    "apiVersion": 1
   },
   {
     "name": "loveDRAMA",
     "internalName": "LoveDrama",
     "version": 5,
-    "description": "loveDRAMA · 1080p Full HD dikey kısa diziler ve romantik bölümler.",
+    "description": "loveDRAMA · 1080p Full HD dikey kısa diziler ve romantik bölümler (Canlı Firebase RTDB).",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/loveDRAMA.cs3?v=3a505a3ec969",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/loveDRAMA.cs3?v=95f437e3f257",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/loveDRAMA.png",
     "tvTypes": [
       "AsianDrama",
@@ -232,7 +206,8 @@
     "language": "tr",
     "status": 1,
     "fileSize": 107112,
-    "fileHash": "sha256-95f437e3f257679445282a083f2b1a75f85a8ec6275d28fb41ba499fa463d827"
+    "fileHash": "sha256-95f437e3f257679445282a083f2b1a75f85a8ec6275d28fb41ba499fa463d827",
+    "apiVersion": 1
   },
   {
     "name": "mtDRAMA",
@@ -252,18 +227,19 @@
     "language": "tr",
     "status": 1,
     "fileSize": 110034,
-    "fileHash": "sha256-fa87a3ceebd18e39df64ae92d8fc0381ea126537fcd6a69a572d93e0ff5822e7"
+    "fileHash": "sha256-fa87a3ceebd18e39df64ae92d8fc0381ea126537fcd6a69a572d93e0ff5822e7",
+    "apiVersion": 1
   },
   {
     "name": "freeDRAMA",
     "internalName": "FreeDrama",
     "version": 5,
-    "description": "freeDRAMA · 1080p Full HD dikey kısa diziler ve trend bölümler.",
+    "description": "freeDRAMA · 1080p Full HD dikey kısa diziler ve trend bölümler (FreeReels API).",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/freeDRAMA.cs3?v=a4eaed5b2c77",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/freeDRAMA.cs3?v=5f3be1add82c",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/freeDRAMA.png",
     "tvTypes": [
       "AsianDrama",
@@ -272,7 +248,8 @@
     "language": "tr",
     "status": 1,
     "fileSize": 112363,
-    "fileHash": "sha256-5f3be1add82c2cef629a32d448776b2ab930d3249d0ca16abd1eff42c61b59e2"
+    "fileHash": "sha256-5f3be1add82c2cef629a32d448776b2ab930d3249d0ca16abd1eff42c61b59e2",
+    "apiVersion": 1
   },
   {
     "name": "oiDRAMA",
@@ -292,80 +269,19 @@
     "language": "tr",
     "status": 1,
     "fileSize": 112112,
-    "fileHash": "sha256-ed246f08fd547974de1d9ad2a705b576ad075a773f65ddaf0a1c340af8ee493a"
+    "fileHash": "sha256-ed246f08fd547974de1d9ad2a705b576ad075a773f65ddaf0a1c340af8ee493a",
+    "apiVersion": 1
   },
   {
     "name": "mcDRAMA",
     "internalName": "McDrama",
-    "version": 5,
-    "description": "mcDRAMA • Micro Drama HD dikey kısa diziler ve mini seriler.",
-    "authors": [
-      "Wiojelt"
-    ],
-    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/mcDRAMA.cs3?v=9616707f94cf",
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/mcDRAMA.png",
-    "tvTypes": [
-      "AsianDrama",
-      "TvSeries"
-    ],
-    "language": "tr",
-    "status": 1,
-    "fileSize": 106526,
-    "fileHash": "sha256-0ee38e6728c1d656ef029ea15624330002a1b9c35cbd084c3c9d49d82f7db216"
-  },
-  {
-    "name": "freeDRAMA",
-    "internalName": "freeDRAMA",
-    "version": 5,
-    "description": "freeDRAMA · 1080p Full HD dikey kısa diziler ve trend bölümler (FreeReels API).",
-    "authors": [
-      "Wiojelt"
-    ],
-    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/freeDRAMA.cs3?v=sha256-5f3be",
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/freeDRAMA.png",
-    "tvTypes": [
-      "AsianDrama",
-      "TvSeries"
-    ],
-    "language": "tr",
-    "status": 1,
-    "fileSize": 112363,
-    "fileHash": "sha256-5f3be1add82c2cef629a32d448776b2ab930d3249d0ca16abd1eff42c61b59e2",
-    "apiVersion": 1
-  },
-  {
-    "name": "loveDRAMA",
-    "internalName": "loveDRAMA",
-    "version": 5,
-    "description": "loveDRAMA · 1080p Full HD dikey kısa diziler ve romantik bölümler (Canlı Firebase RTDB).",
-    "authors": [
-      "Wiojelt"
-    ],
-    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/loveDRAMA.cs3?v=sha256-95f43",
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/loveDRAMA.png",
-    "tvTypes": [
-      "AsianDrama",
-      "TvSeries"
-    ],
-    "language": "tr",
-    "status": 1,
-    "fileSize": 107112,
-    "fileHash": "sha256-95f437e3f257679445282a083f2b1a75f85a8ec6275d28fb41ba499fa463d827",
-    "apiVersion": 1
-  },
-  {
-    "name": "mcDRAMA",
-    "internalName": "mcDRAMA",
     "version": 5,
     "description": "mcDRAMA · Micro Drama HD dikey kısa diziler ve mini seriler (Canlı Şifreli Gateway).",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/mcDRAMA.cs3?v=sha256-0ee38",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/mcDRAMA.cs3?v=0ee38e6728c1",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/mcDRAMA.png",
     "tvTypes": [
       "AsianDrama",
