@@ -2,14 +2,14 @@
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/drama/DramaDizilerim.cs3",
     "status": 3,
-    "version": 4,
+    "version": 3,
     "name": "DramaDizilerim",
     "internalName": "DramaDizilerim",
     "authors": [
       "Wiojelt"
     ],
     "description": "DramaDizilerim kısa dizi, Asya dizileri, GoodShort ve ReelShort Türkçe dublaj/altyazılı akışları.",
-    "fileSize": 113326,
+    "fileSize": 113260,
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
     "language": "tr",
     "tvTypes": [
@@ -18,7 +18,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.svg",
     "apiVersion": 1,
-    "fileHash": "sha256-d43b70c371c7d44ad7f261fd0d0e89dbdb9fb9dd5f07778f71f561111bb0738d"
+    "fileHash": "sha256-ee53f6819325daa7c5d3dc6f2dd2ed54613120c663c128c8fc1d57b9f6274448"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/drama/NetShort.cs3?v=585274dbae12_1792503587",
@@ -217,7 +217,7 @@
   {
     "name": "loveDRAMA",
     "internalName": "LoveDrama",
-    "version": 4,
+    "version": 5,
     "description": "loveDRAMA · 1080p Full HD dikey kısa diziler ve romantik bölümler.",
     "authors": [
       "Wiojelt"
@@ -232,7 +232,7 @@
     "language": "tr",
     "status": 1,
     "fileSize": 107112,
-    "fileHash": "sha256-3a505a3ec9692ff8cdd4bb81bc768b784566643ad4c8b63bc495439dbb307728"
+    "fileHash": "sha256-95f437e3f257679445282a083f2b1a75f85a8ec6275d28fb41ba499fa463d827"
   },
   {
     "name": "mtDRAMA",
@@ -257,7 +257,7 @@
   {
     "name": "freeDRAMA",
     "internalName": "FreeDrama",
-    "version": 4,
+    "version": 5,
     "description": "freeDRAMA · 1080p Full HD dikey kısa diziler ve trend bölümler.",
     "authors": [
       "Wiojelt"
@@ -271,8 +271,8 @@
     ],
     "language": "tr",
     "status": 1,
-    "fileSize": 111982,
-    "fileHash": "sha256-a4eaed5b2c77876160b841387920dcf592a4c8cafdd0ae0a1e067bfbf2c8c862"
+    "fileSize": 112363,
+    "fileHash": "sha256-5f3be1add82c2cef629a32d448776b2ab930d3249d0ca16abd1eff42c61b59e2"
   },
   {
     "name": "oiDRAMA",
@@ -297,7 +297,7 @@
   {
     "name": "mcDRAMA",
     "internalName": "McDrama",
-    "version": 4,
+    "version": 5,
     "description": "mcDRAMA • Micro Drama HD dikey kısa diziler ve mini seriler.",
     "authors": [
       "Wiojelt"
@@ -312,7 +312,7 @@
     "language": "tr",
     "status": 1,
     "fileSize": 106526,
-    "fileHash": "sha256-9616707f94cfae439aa1b6df13696cbedf3cdfce30e6efc3f66e359fd298cbcf"
+    "fileHash": "sha256-0ee38e6728c1d656ef029ea15624330002a1b9c35cbd084c3c9d49d82f7db216"
   },
   {
     "name": "freeDRAMA",
