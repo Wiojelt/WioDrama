@@ -23,13 +23,13 @@
   {
     "name": "NetShort",
     "internalName": "NetShort",
-    "version": 3,
+    "version": 4,
     "description": "NetShort kısa dizi ve dikey mini drama Türkçe dublaj/altyazılı akışları.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/NetShort.cs3?v=d41f16b2e94e",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/NetShort.cs3?v=85f747a5ddd9",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.svg",
     "tvTypes": [
       "TvSeries",
@@ -37,8 +37,8 @@
     ],
     "language": "tr",
     "status": 1,
-    "fileSize": 122996,
-    "fileHash": "sha256-d41f16b2e94e8d243777cf6fcdae1984c5c381e5874d2dcd81491f34a3dc4620",
+    "fileSize": 123255,
+    "fileHash": "sha256-85f747a5ddd9268eb9ad634a33ae089b4ff43028418862a611892059cc509bf4",
     "apiVersion": 1
   },
   {
@@ -65,13 +65,13 @@
   {
     "name": "TryDrama",
     "internalName": "TryDrama",
-    "version": 8,
+    "version": 9,
     "description": "TryDrama · ShortMax, DramaBox, NetShort, DramaBite, GoodShort, TopDrama, DramaWave, ShortBox Türkçe dublaj ve altyazı içerikleri.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/TryDrama.cs3?v=efd3e61511d2",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/TryDrama.cs3?v=117588d501fe",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/trdrama.png",
     "tvTypes": [
       "AsianDrama",
@@ -79,8 +79,8 @@
     ],
     "language": "tr",
     "status": 1,
-    "fileSize": 109650,
-    "fileHash": "sha256-efd3e61511d2b3572e9f94ce68211182dbc1489dc2021e4e06c10b8ac7255e70",
+    "fileSize": 109466,
+    "fileHash": "sha256-117588d501fef115814c3903be15f45009333df58d3a357bb42f683b80cde6ac",
     "apiVersion": 1
   },
   {
@@ -233,13 +233,13 @@
   {
     "name": "oiDRAMA",
     "internalName": "OiDrama",
-    "version": 2,
+    "version": 3,
     "description": "oiDRAMA • Popüler dikey kısa drama ve trend dizi akışları.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/oiDRAMA.cs3?v=ed246f08fd54",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/oiDRAMA.cs3?v=3b72f04b0ba1",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/oiDRAMA.png",
     "tvTypes": [
       "AsianDrama",
@@ -247,29 +247,29 @@
     ],
     "language": "tr",
     "status": 1,
-    "fileSize": 112112,
-    "fileHash": "sha256-ed246f08fd547974de1d9ad2a705b576ad075a773f65ddaf0a1c340af8ee493a",
+    "fileSize": 112423,
+    "fileHash": "sha256-3b72f04b0ba1ee8ab1193c2d4d00491470f89dce30a7abbfd76169346ef77289",
     "apiVersion": 1
   },
   {
     "name": "Micro Drama",
-    "internalName": "McDrama",
-    "version": 6,
-    "description": "mcDRAMA · Micro Drama HD dikey kısa diziler ve mini seriler (Canlı Şifreli Gateway).",
+    "internalName": "MicroDrama",
+    "version": 7,
+    "description": "Micro Drama – ByteDance ShortPlay altyapılı popüler kısa drama dizileri.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/mcDRAMA.cs3?v=610288b19341",
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/mcDRAMA.png",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/MicroDrama.cs3?v=344d173b9703",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/microdrama.png",
     "tvTypes": [
       "AsianDrama",
       "TvSeries"
     ],
     "language": "tr",
     "status": 1,
-    "fileSize": 106538,
-    "fileHash": "sha256-610288b193414704d659c979c98fc739bc579dea7ed5d0b397c2904f2a6fa18a",
+    "fileSize": 106689,
+    "fileHash": "sha256-344d173b9703920725c42c2e31feb5205143e12f0229999050491b1ec363d6db",
     "apiVersion": 1
   },
   {
@@ -333,6 +333,48 @@
     "status": 1,
     "fileSize": 110330,
     "fileHash": "sha256-4c1dd5783224fe9cbd96fa9eebcb42c590d4644ae54e3ea7d550b211ff976b4b",
+    "apiVersion": 1
+  },
+  {
+    "name": "Drama Dünyam",
+    "internalName": "DramaDunyam",
+    "version": 3,
+    "description": "Drama Dünyam – Türkçe dublajlı ve altyazılı dikey kısa drama dizileri.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/DramaDunyam.cs3?v=3eb403e20577",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/dramadunyam.png",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 115963,
+    "fileHash": "sha256-3eb403e20577cf9311da0add0a860c1e750dc0cc06d0b1bdaf5829a4c8126419",
+    "apiVersion": 1
+  },
+  {
+    "name": "Mini Dizi İzle",
+    "internalName": "MiniDiziIzle",
+    "version": 2,
+    "description": "Mini Dizi İzle – Türkçe dublajlı ve altyazılı mini dizi platformu.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/MiniDiziIzle.cs3?v=8aac6b2adcf4",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.svg",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 110753,
+    "fileHash": "sha256-8aac6b2adcf4f331ab3b4897bddfe28ebba62d842ca39ff07ccb4d99257f9c4e",
     "apiVersion": 1
   }
 ]
