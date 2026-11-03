@@ -2,13 +2,13 @@
   {
     "name": "DramaDizilerim",
     "internalName": "DramaDizilerim",
-    "version": 4,
+    "version": 5,
     "description": "DramaDizilerim kısa dizi, Asya dizileri, GoodShort ve ReelShort Türkçe dublaj/altyazılı akışları.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/DramaDizilerim.cs3?v=2075dc173eba",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/DramaDizilerim.cs3?v=ad9cd0115a66",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.svg",
     "tvTypes": [
       "TvSeries",
@@ -16,8 +16,8 @@
     ],
     "language": "tr",
     "status": 1,
-    "fileSize": 34511,
-    "fileHash": "sha256-2075dc173eba837dd9b1526f795b5c95e4a37d43e6bd2730cb89b165b004edec",
+    "fileSize": 240316,
+    "fileHash": "sha256-ad9cd0115a6697e53e8ec36a67c07fba0f654230b06fa49162301d72da929829",
     "apiVersion": 1
   },
   {
@@ -107,13 +107,13 @@
   {
     "name": "DramaBox",
     "internalName": "DramaBox",
-    "version": 4,
+    "version": 5,
     "description": "dboxDRAMA · Popüler dikey kısa drama ve trend dizi akışları.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/dboxDRAMA.cs3?v=30d4542b2a81",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/DramaBox.cs3?v=fdab323fec1a",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/dboxDRAMA.png",
     "tvTypes": [
       "AsianDrama",
@@ -121,8 +121,8 @@
     ],
     "language": "tr",
     "status": 1,
-    "fileSize": 106017,
-    "fileHash": "sha256-30d4542b2a812f980c601ce6add613923b3b796d56699dbb7f8612f84e74c9e1",
+    "fileSize": 108248,
+    "fileHash": "sha256-fdab323fec1a089dc75c62eb1a3ed8d6945afcb893cf5025cf60d23e5a577295",
     "apiVersion": 1
   },
   {
@@ -233,7 +233,7 @@
   {
     "name": "oiDRAMA",
     "internalName": "OiDrama",
-    "version": 3,
+    "version": 4,
     "description": "oiDRAMA • Popüler dikey kısa drama ve trend dizi akışları.",
     "authors": [
       "Wiojelt"
@@ -248,7 +248,7 @@
     "language": "tr",
     "status": 1,
     "fileSize": 112423,
-    "fileHash": "sha256-3b72f04b0ba1ee8ab1193c2d4d00491470f89dce30a7abbfd76169346ef77289",
+    "fileHash": "sha256-3b72f04b0ba1ee8ab1193c2d4d00491470f89dce30a7abfbd76169346ef77289",
     "apiVersion": 1
   },
   {
