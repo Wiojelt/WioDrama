@@ -2,13 +2,13 @@
   {
     "name": "DramaDizilerim",
     "internalName": "DramaDizilerim",
-    "version": 15,
+    "version": 16,
     "description": "DramaDizilerim kısa dizi, Asya dizileri, GoodShort ve ReelShort Türkçe dublaj/altyazılı akışları.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/DramaDizilerim.cs3?v=cd76a5225eb0",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/DramaDizilerim.cs3?v=be1ba4fe19c8",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.svg",
     "tvTypes": [
       "TvSeries",
@@ -16,8 +16,8 @@
     ],
     "language": "tr",
     "status": 1,
-    "fileSize": 117125,
-    "fileHash": "sha256-cd76a5225eb00985c150eded88f53e2f9eb792d33e7fb9a7bb5afec1237f704e",
+    "fileSize": 117477,
+    "fileHash": "sha256-be1ba4fe19c84670d309932a463ba225b5de73442796e573c84d229ab09c6f5a",
     "apiVersion": 1
   },
   {
@@ -65,13 +65,13 @@
   {
     "name": "TryDrama",
     "internalName": "TryDrama",
-    "version": 15,
+    "version": 16,
     "description": "TryDrama · ShortMax, DramaBox, NetShort, DramaBite, GoodShort, TopDrama, DramaWave, ShortBox Türkçe dublaj ve altyazı içerikleri.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/TryDrama.cs3?v=898982a289de",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/TryDrama.cs3?v=da17afe47ea2",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/trdrama.png",
     "tvTypes": [
       "AsianDrama",
@@ -79,8 +79,8 @@
     ],
     "language": "tr",
     "status": 1,
-    "fileSize": 109632,
-    "fileHash": "sha256-898982a289deeb350787b6ef27b9860adbdcc8cc2f220af3315bde6eaece6cdb",
+    "fileSize": 111728,
+    "fileHash": "sha256-da17afe47ea2baa3cd8f1edb15aef090ff7df895007fc4120713f081dfbbcdab",
     "apiVersion": 1
   },
   {
