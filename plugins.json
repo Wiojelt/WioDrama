@@ -23,7 +23,7 @@
   {
     "name": "NetShort",
     "internalName": "NetShort",
-    "version": 4,
+    "version": 3,
     "description": "NetShort kısa dizi ve dikey mini drama Türkçe dublaj/altyazılı akışları.",
     "authors": [
       "Wiojelt"
@@ -44,7 +44,7 @@
   {
     "name": "WioShort",
     "internalName": "WioShort",
-    "version": 3,
+    "version": 2,
     "description": "WioShort · Dikey kısa dizi ve mini drama Türkçe dublaj/altyazılı akışları.",
     "authors": [
       "Wiojelt"
@@ -233,7 +233,7 @@
   {
     "name": "oiDRAMA",
     "internalName": "OiDrama",
-    "version": 4,
+    "version": 2,
     "description": "oiDRAMA • Popüler dikey kısa drama ve trend dizi akışları.",
     "authors": [
       "Wiojelt"
@@ -254,7 +254,7 @@
   {
     "name": "Micro Drama",
     "internalName": "MicroDrama",
-    "version": 7,
+    "version": 1,
     "description": "Micro Drama – ByteDance ShortPlay altyapılı popüler kısa drama dizileri.",
     "authors": [
       "Wiojelt"
@@ -296,7 +296,7 @@
   {
     "name": "My Drama",
     "internalName": "MyDrama",
-    "version": 3,
+    "version": 2,
     "description": "My Drama — Türkçe altyazılı dikey kısa drama ve romantizm dizileri.",
     "authors": [
       "Wiojelt"
@@ -317,7 +317,7 @@
   {
     "name": "Shot Short",
     "internalName": "ShotShort",
-    "version": 3,
+    "version": 1,
     "description": "Shot Short — Türkçe altyazılı dikey kısa drama dizileri ve mini diziler.",
     "authors": [
       "Wiojelt"
@@ -338,7 +338,7 @@
   {
     "name": "Drama Dünyam",
     "internalName": "DramaDunyam",
-    "version": 3,
+    "version": 2,
     "description": "Drama Dünyam – Türkçe dublajlı ve altyazılı dikey kısa drama dizileri.",
     "authors": [
       "Wiojelt"
@@ -359,7 +359,7 @@
   {
     "name": "Mini Dizi İzle",
     "internalName": "MiniDiziIzle",
-    "version": 2,
+    "version": 1,
     "description": "Mini Dizi İzle – Türkçe dublajlı ve altyazılı mini dizi platformu.",
     "authors": [
       "Wiojelt"
