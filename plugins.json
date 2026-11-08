@@ -78,7 +78,7 @@
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 0,
     "fileSize": 111728,
     "fileHash": "sha256-da17afe47ea2baa3cd8f1edb15aef090ff7df895007fc4120713f081dfbbcdab",
     "apiVersion": 1
@@ -162,7 +162,7 @@
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 0,
     "fileSize": 112378,
     "fileHash": "sha256-4a1e74e75c27e803e39f68cb05923381cc34d907f63caa942332c45c545e5247",
     "apiVersion": 1
@@ -183,7 +183,7 @@
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 0,
     "fileSize": 107112,
     "fileHash": "sha256-95f437e3f257679445282a083f2b1a75f85a8ec6275d28fb41ba499fa463d827",
     "apiVersion": 1
@@ -204,7 +204,7 @@
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 0,
     "fileSize": 111134,
     "fileHash": "sha256-e9e152ca45014acb46df0bb35783c138f636a625a681a807bcf25dc61e205b98",
     "apiVersion": 1
@@ -267,7 +267,7 @@
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 0,
     "fileSize": 106689,
     "fileHash": "sha256-344d173b9703920725c42c2e31feb5205143e12f0229999050491b1ec363d6db",
     "apiVersion": 1
@@ -288,7 +288,7 @@
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 0,
     "fileSize": 115593,
     "fileHash": "sha256-e557c4e2567d9e7463e882ed3d4e0d6242c3dcd408794d102c38c2639578c25d",
     "apiVersion": 1
@@ -309,7 +309,7 @@
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 0,
     "fileSize": 115784,
     "fileHash": "sha256-8156294f1a79cfb2a923f465dfe0b9583bf567be453a092a00fa001379e611ef",
     "apiVersion": 1
@@ -351,7 +351,7 @@
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 0,
     "fileSize": 115963,
     "fileHash": "sha256-3eb403e20577cf9311da0add0a860c1e750dc0cc06d0b1bdaf5829a4c8126419",
     "apiVersion": 1
@@ -372,7 +372,7 @@
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 0,
     "fileSize": 110753,
     "fileHash": "sha256-8aac6b2adcf4f331ab3b4897bddfe28ebba62d842ca39ff07ccb4d99257f9c4e",
     "apiVersion": 1
