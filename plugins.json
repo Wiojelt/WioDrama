@@ -44,13 +44,13 @@
   {
     "name": "WioShort",
     "internalName": "WioShort",
-    "version": 4,
+    "version": 5,
     "description": "WioShort · Dikey kısa dizi ve mini drama Türkçe dublaj/altyazılı akışları.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/WioShort.cs3?v=18dbb8971cc8",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/WioShort.cs3?v=7f2964275cae",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.png",
     "tvTypes": [
       "AsianDrama",
@@ -58,8 +58,8 @@
     ],
     "language": "tr",
     "status": 1,
-    "fileSize": 111686,
-    "fileHash": "sha256-18dbb8971cc82a1cdac07c37c031afbc9410b710fd2a1ff350c749ffcf067d8d",
+    "fileSize": 111689,
+    "fileHash": "sha256-7f2964275caed28004902d10eb7f67f58d6be929aef1643e9909371925be3a15",
     "apiVersion": 1
   },
   {
