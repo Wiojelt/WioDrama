@@ -71,7 +71,7 @@
   {
     "name": "TryDrama",
     "internalName": "TryDrama",
-    "version": 19,
+    "version": 20,
     "description": "TryDrama · ShortMax, DramaBox, NetShort, DramaBite, GoodShort, TopDrama, DramaWave, ShortBox Türkçe dublaj ve altyazı içerikleri.",
     "authors": [
       "Wiojelt"
@@ -88,8 +88,8 @@
     "fileSize": 110740,
     "fileHash": "sha256-40c31efc16fdd3bf0dad0cde95badb35f168671995b22d04e3d4d49a2bd5212f",
     "apiVersion": 1,
-    "filesize": 117956,
-    "hash": "86166fb56c4355526f88c65224b8df36"
+    "filesize": 118050,
+    "hash": "a48730bef9959759825e07a7824a4061"
   },
   {
     "name": "greatDRAMA",
@@ -117,7 +117,7 @@
   {
     "name": "DramaBox",
     "internalName": "DramaBox",
-    "version": 19,
+    "version": 20,
     "description": "DramaBox · Türkçe dublajlı & altyazılı dikey kısa drama dizileri.",
     "authors": [
       "Wiojelt"
@@ -134,8 +134,8 @@
     "fileSize": 108582,
     "fileHash": "sha256-f30c762c052825109cffd317192d76cc55bf463217cb3e999add3c041178047c",
     "apiVersion": 1,
-    "filesize": 114072,
-    "hash": "478d64342b09bd2e54a034835f33ab43"
+    "filesize": 115177,
+    "hash": "aed1721935bac6c5d1ca92f9f8bf0725"
   },
   {
     "name": "dmaxDRAMA",
