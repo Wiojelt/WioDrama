@@ -48,7 +48,7 @@
   {
     "name": "WioShort",
     "internalName": "WioShort",
-    "version": 5,
+    "version": 6,
     "description": "WioShort · Dikey kısa dizi ve mini drama Türkçe dublaj/altyazılı akışları.",
     "authors": [
       "Wiojelt"
@@ -65,8 +65,8 @@
     "fileSize": 111689,
     "fileHash": "sha256-7f2964275caed28004902d10eb7f67f58d6be929aef1643e9909371925be3a15",
     "apiVersion": 1,
-    "filesize": 111689,
-    "hash": "92aa9d1e72373733059582ae497cb47d"
+    "filesize": 111732,
+    "hash": "104e9eb524f3a4dca053a8fca523fa16"
   },
   {
     "name": "TryDrama",
@@ -209,7 +209,7 @@
   {
     "name": "MinuteDrama",
     "internalName": "MinuteDrama",
-    "version": 15,
+    "version": 16,
     "description": "mtDRAMA · Popüler dikey kısa drama ve trend dizi akışları.",
     "authors": [
       "Wiojelt"
@@ -226,8 +226,8 @@
     "fileSize": 111134,
     "fileHash": "sha256-e9e152ca45014acb46df0bb35783c138f636a625a681a807bcf25dc61e205b98",
     "apiVersion": 1,
-    "filesize": 111134,
-    "hash": "7cd5e26730cfa3cb8c822f288e2b5db5"
+    "filesize": 116348,
+    "hash": "750daaa82e6cc5af78e2755c3dd1e706"
   },
   {
     "name": "freeDRAMA",
