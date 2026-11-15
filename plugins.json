@@ -18,7 +18,9 @@
     "status": 1,
     "fileSize": 116873,
     "fileHash": "sha256-768bc901ccf983d9cba63f2ff45c2dfb16736fb9bf110042a77f1c8fe9f39663",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 116873,
+    "hash": "883dddc587ef7a6c1271f8ae08938552"
   },
   {
     "name": "NetShort",
@@ -39,7 +41,9 @@
     "status": 1,
     "fileSize": 121850,
     "fileHash": "sha256-19c979b74aaf13528df524f8e379503304a221fd2053e12b3eda22b77ad68e94",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 121850,
+    "hash": "cc34b67ede3674574158b08f3dbaca10"
   },
   {
     "name": "WioShort",
@@ -60,12 +64,14 @@
     "status": 1,
     "fileSize": 111689,
     "fileHash": "sha256-7f2964275caed28004902d10eb7f67f58d6be929aef1643e9909371925be3a15",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 111689,
+    "hash": "92aa9d1e72373733059582ae497cb47d"
   },
   {
     "name": "TryDrama",
     "internalName": "TryDrama",
-    "version": 18,
+    "version": 19,
     "description": "TryDrama · ShortMax, DramaBox, NetShort, DramaBite, GoodShort, TopDrama, DramaWave, ShortBox Türkçe dublaj ve altyazı içerikleri.",
     "authors": [
       "Wiojelt"
@@ -81,7 +87,9 @@
     "status": 1,
     "fileSize": 110740,
     "fileHash": "sha256-40c31efc16fdd3bf0dad0cde95badb35f168671995b22d04e3d4d49a2bd5212f",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 117956,
+    "hash": "86166fb56c4355526f88c65224b8df36"
   },
   {
     "name": "greatDRAMA",
@@ -102,12 +110,14 @@
     "status": 1,
     "fileSize": 104981,
     "fileHash": "sha256-2d3b343011dca7fdf36c8754193db096b685fa8e62257eee633830802ee01a6d",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 104981,
+    "hash": "71a7acb252c8bb468132537e4ee2bd00"
   },
   {
     "name": "DramaBox",
     "internalName": "DramaBox",
-    "version": 18,
+    "version": 19,
     "description": "DramaBox · Türkçe dublajlı & altyazılı dikey kısa drama dizileri.",
     "authors": [
       "Wiojelt"
@@ -123,7 +133,9 @@
     "status": 1,
     "fileSize": 108582,
     "fileHash": "sha256-f30c762c052825109cffd317192d76cc55bf463217cb3e999add3c041178047c",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 114072,
+    "hash": "478d64342b09bd2e54a034835f33ab43"
   },
   {
     "name": "dmaxDRAMA",
@@ -144,7 +156,9 @@
     "status": 1,
     "fileSize": 112566,
     "fileHash": "sha256-de539d6031902ff26f9427195f05bb00639a867c2a0d8fa122cd0e5fcba1ef22",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 112566,
+    "hash": "072bfab3fc533b6386e6bd597ccac11d"
   },
   {
     "name": "hiDRAMA",
@@ -165,7 +179,9 @@
     "status": 1,
     "fileSize": 111110,
     "fileHash": "sha256-dd7a806741bff1fd2c3f64b0a3629b8033e242763307545dc39f6fd44d4bd223",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 111110,
+    "hash": "67d9c09120979033e7cd7c55a7952956"
   },
   {
     "name": "loveDRAMA",
@@ -186,7 +202,9 @@
     "status": 1,
     "fileSize": 107112,
     "fileHash": "sha256-95f437e3f257679445282a083f2b1a75f85a8ec6275d28fb41ba499fa463d827",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 107112,
+    "hash": "474d834d6941c838d1aebb64e2bb1b89"
   },
   {
     "name": "MinuteDrama",
@@ -207,7 +225,9 @@
     "status": 1,
     "fileSize": 111134,
     "fileHash": "sha256-e9e152ca45014acb46df0bb35783c138f636a625a681a807bcf25dc61e205b98",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 111134,
+    "hash": "7cd5e26730cfa3cb8c822f288e2b5db5"
   },
   {
     "name": "freeDRAMA",
@@ -228,7 +248,9 @@
     "status": 1,
     "fileSize": 112363,
     "fileHash": "sha256-5f3be1add82c2cef629a32d448776b2ab930d3249d0ca16abd1eff42c61b59e2",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 112363,
+    "hash": "5df6fd6c535b076c6db87e3d3b8033c1"
   },
   {
     "name": "oiDRAMA",
@@ -249,7 +271,9 @@
     "status": 1,
     "fileSize": 112423,
     "fileHash": "sha256-3b72f04b0ba1ee8ab1193c2d4d00491470f89dce30a7abfbd76169346ef77289",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 112423,
+    "hash": "72e276febf25a3f45d878ada5e935ac7"
   },
   {
     "name": "Micro Drama",
@@ -270,7 +294,9 @@
     "status": 1,
     "fileSize": 106689,
     "fileHash": "sha256-344d173b9703920725c42c2e31feb5205143e12f0229999050491b1ec363d6db",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 106689,
+    "hash": "7b4b6b7be3cc02ebd1fc2204f16beb05"
   },
   {
     "name": "MuseDrama",
@@ -291,7 +317,9 @@
     "status": 1,
     "fileSize": 115593,
     "fileHash": "sha256-e557c4e2567d9e7463e882ed3d4e0d6242c3dcd408794d102c38c2639578c25d",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 115593,
+    "hash": "bf0646fc85dcbf44563011c34b2fcca5"
   },
   {
     "name": "My Drama",
@@ -312,7 +340,9 @@
     "status": 1,
     "fileSize": 115784,
     "fileHash": "sha256-8156294f1a79cfb2a923f465dfe0b9583bf567be453a092a00fa001379e611ef",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 115784,
+    "hash": "f9dc85b30340ad8a30e43847fa2278ca"
   },
   {
     "name": "Shot Short",
@@ -333,7 +363,9 @@
     "status": 1,
     "fileSize": 110330,
     "fileHash": "sha256-4c1dd5783224fe9cbd96fa9eebcb42c590d4644ae54e3ea7d550b211ff976b4b",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 110330,
+    "hash": "bc2c7a3fa4bc67e275ba2beb1f6cefbf"
   },
   {
     "name": "Drama Dünyam",
@@ -354,7 +386,9 @@
     "status": 1,
     "fileSize": 115963,
     "fileHash": "sha256-3eb403e20577cf9311da0add0a860c1e750dc0cc06d0b1bdaf5829a4c8126419",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 115963,
+    "hash": "3d541b2a83b78de913882dcb0798d3c0"
   },
   {
     "name": "Mini Dizi İzle",
@@ -375,7 +409,9 @@
     "status": 1,
     "fileSize": 110753,
     "fileHash": "sha256-8aac6b2adcf4f331ab3b4897bddfe28ebba62d842ca39ff07ccb4d99257f9c4e",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 110753,
+    "hash": "ecd7d69f6f417f92e6e24ee1923b4410"
   },
   {
     "name": "DramaVakti",
@@ -396,12 +432,14 @@
     "status": 1,
     "fileSize": 107653,
     "fileHash": "sha256-d0b953cd19588a1e34f479fda4094e7bd444e49d90de89d0c7a620d69304565c",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 107653,
+    "hash": "5c151f1c755a08f0960057837c1000a4"
   },
   {
     "name": "ShortMax",
     "internalName": "ShortMax",
-    "version": 4,
+    "version": 5,
     "description": "ShortMax · Türkçe dublajlı ve altyazılı dikey mini diziler (HD/1080p).",
     "authors": [
       "Wiojelt"
@@ -417,6 +455,8 @@
     "status": 1,
     "fileSize": 114206,
     "fileHash": "sha256-8d5f67e168ade109e2642a8f5fffe7c5c9afa8bb8545f85f137ba9f233c9fc30",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 107524,
+    "hash": "db888a31b3d47040a6e2f234be3e8287"
   }
 ]
