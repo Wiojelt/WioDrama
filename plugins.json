@@ -347,7 +347,7 @@
   {
     "name": "Shot Short",
     "internalName": "ShotShort",
-    "version": 1,
+    "version": 2,
     "description": "Shot Short — Türkçe altyazılı dikey kısa drama dizileri ve mini diziler.",
     "authors": [
       "Wiojelt"
@@ -364,8 +364,8 @@
     "fileSize": 110330,
     "fileHash": "sha256-4c1dd5783224fe9cbd96fa9eebcb42c590d4644ae54e3ea7d550b211ff976b4b",
     "apiVersion": 1,
-    "filesize": 110330,
-    "hash": "bc2c7a3fa4bc67e275ba2beb1f6cefbf"
+    "filesize": 116106,
+    "hash": "92d5fdfde5df9b173245c7adcd92e6d6400751ec400afc8cf55463ee05612d34"
   },
   {
     "name": "Drama Dünyam",
