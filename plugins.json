@@ -117,7 +117,7 @@
   {
     "name": "DramaBox",
     "internalName": "DramaBox",
-    "version": 21,
+    "version": 22,
     "description": "DramaBox · Türkçe dublajlı & altyazılı dikey kısa drama dizileri.",
     "authors": [
       "Wiojelt"
@@ -135,7 +135,7 @@
     "fileHash": "sha256-f30c762c052825109cffd317192d76cc55bf463217cb3e999add3c041178047c",
     "apiVersion": 1,
     "filesize": 115363,
-    "hash": "sha256-434a9d2d60228abfd30cf041468586cd58c78e06a356d00f2e9d7519b679ba65"
+    "hash": "a91f3b6bc5cb00894f7e63b3cd2bf57d6084f0426ab636561ad3267c08248d3e"
   },
   {
     "name": "dmaxDRAMA",
