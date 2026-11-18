@@ -15,12 +15,12 @@
       "AsianDrama"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 3,
     "fileSize": 116873,
     "fileHash": "sha256-768bc901ccf983d9cba63f2ff45c2dfb16736fb9bf110042a77f1c8fe9f39663",
     "apiVersion": 1,
     "filesize": 116873,
-    "hash": "883dddc587ef7a6c1271f8ae08938552"
+    "hash": "768bc901ccf983d9cba63f2ff45c2dfb16736fb9bf110042a77f1c8fe9f39663"
   },
   {
     "name": "NetShort",
@@ -38,12 +38,12 @@
       "AsianDrama"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 3,
     "fileSize": 121850,
     "fileHash": "sha256-19c979b74aaf13528df524f8e379503304a221fd2053e12b3eda22b77ad68e94",
     "apiVersion": 1,
     "filesize": 121850,
-    "hash": "cc34b67ede3674574158b08f3dbaca10"
+    "hash": "19c979b74aaf13528df524f8e379503304a221fd2053e12b3eda22b77ad68e94"
   },
   {
     "name": "WioShort",
@@ -54,19 +54,19 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/WioShort.cs3?v=7f2964275cae",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/WioShort.cs3?v=8d8342228837",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo.png",
     "tvTypes": [
       "AsianDrama",
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
-    "fileSize": 111689,
-    "fileHash": "sha256-7f2964275caed28004902d10eb7f67f58d6be929aef1643e9909371925be3a15",
+    "status": 3,
+    "fileSize": 111732,
+    "fileHash": "sha256-8d8342228837d7dd6219365fcbe51c6700662c212cc1f28a44804cedfd20a6ab",
     "apiVersion": 1,
     "filesize": 111732,
-    "hash": "104e9eb524f3a4dca053a8fca523fa16"
+    "hash": "8d8342228837d7dd6219365fcbe51c6700662c212cc1f28a44804cedfd20a6ab"
   },
   {
     "name": "TryDrama",
@@ -77,19 +77,19 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/TryDrama.cs3?v=40c31efc16fd",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/TryDrama.cs3?v=5b1bc8d36e1b",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/trdrama.png",
     "tvTypes": [
       "AsianDrama",
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
-    "fileSize": 110740,
-    "fileHash": "sha256-40c31efc16fdd3bf0dad0cde95badb35f168671995b22d04e3d4d49a2bd5212f",
+    "status": 3,
+    "fileSize": 118050,
+    "fileHash": "sha256-5b1bc8d36e1b7af2c31d5c6c69c009810e27a669fa2764494a1b0fe9019cb370",
     "apiVersion": 1,
     "filesize": 118050,
-    "hash": "a48730bef9959759825e07a7824a4061"
+    "hash": "5b1bc8d36e1b7af2c31d5c6c69c009810e27a669fa2764494a1b0fe9019cb370"
   },
   {
     "name": "greatDRAMA",
@@ -100,19 +100,19 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/greatDRAMA.cs3?v=2d3b343011dc",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/GreatDrama.cs3?v=2d3b343011dc",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/greatDRAMA.png",
     "tvTypes": [
       "AsianDrama",
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 3,
     "fileSize": 104981,
     "fileHash": "sha256-2d3b343011dca7fdf36c8754193db096b685fa8e62257eee633830802ee01a6d",
     "apiVersion": 1,
     "filesize": 104981,
-    "hash": "71a7acb252c8bb468132537e4ee2bd00"
+    "hash": "2d3b343011dca7fdf36c8754193db096b685fa8e62257eee633830802ee01a6d"
   },
   {
     "name": "DramaBox",
@@ -123,7 +123,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/DramaBox.cs3?v=f30c762c0528",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/DramaBox.cs3?v=3f215dab7dfa",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/dboxDRAMA.png",
     "tvTypes": [
       "AsianDrama",
@@ -132,9 +132,9 @@
     "language": "tr",
     "status": 3,
     "fileSize": 121426,
-    "fileHash": "sha256-f30c762c052825109cffd317192d76cc55bf463217cb3e999add3c041178047c",
+    "fileHash": "sha256-3f215dab7dfa8e9adcf43f7fb47e1176872d9f632a0ac7d8e413347111c5af87",
     "apiVersion": 1,
-    "filesize": 115363,
+    "filesize": 121426,
     "hash": "3f215dab7dfa8e9adcf43f7fb47e1176872d9f632a0ac7d8e413347111c5af87"
   },
   {
@@ -146,19 +146,19 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/dmaxDRAMA.cs3?v=de539d603190",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/DmaxDrama.cs3?v=de539d603190",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/dmaxDRAMA.png",
     "tvTypes": [
       "AsianDrama",
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 3,
     "fileSize": 112566,
     "fileHash": "sha256-de539d6031902ff26f9427195f05bb00639a867c2a0d8fa122cd0e5fcba1ef22",
     "apiVersion": 1,
     "filesize": 112566,
-    "hash": "072bfab3fc533b6386e6bd597ccac11d"
+    "hash": "de539d6031902ff26f9427195f05bb00639a867c2a0d8fa122cd0e5fcba1ef22"
   },
   {
     "name": "hiDRAMA",
@@ -169,19 +169,19 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/hiDRAMA.cs3?v=dd7a806741bf",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/HiDrama.cs3?v=dd7a806741bf",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/hiDRAMA.png",
     "tvTypes": [
       "AsianDrama",
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 3,
     "fileSize": 111110,
     "fileHash": "sha256-dd7a806741bff1fd2c3f64b0a3629b8033e242763307545dc39f6fd44d4bd223",
     "apiVersion": 1,
     "filesize": 111110,
-    "hash": "67d9c09120979033e7cd7c55a7952956"
+    "hash": "dd7a806741bff1fd2c3f64b0a3629b8033e242763307545dc39f6fd44d4bd223"
   },
   {
     "name": "loveDRAMA",
@@ -192,19 +192,19 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/loveDRAMA.cs3?v=95f437e3f257",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/LoveDrama.cs3?v=95f437e3f257",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/loveDRAMA.png",
     "tvTypes": [
       "AsianDrama",
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 3,
     "fileSize": 107112,
     "fileHash": "sha256-95f437e3f257679445282a083f2b1a75f85a8ec6275d28fb41ba499fa463d827",
     "apiVersion": 1,
     "filesize": 107112,
-    "hash": "474d834d6941c838d1aebb64e2bb1b89"
+    "hash": "95f437e3f257679445282a083f2b1a75f85a8ec6275d28fb41ba499fa463d827"
   },
   {
     "name": "MinuteDrama",
@@ -215,19 +215,19 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/MinuteDrama.cs3?v=e9e152ca4501",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/MinuteDrama.cs3?v=dc92a8a9354a",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/mtDRAMA.png",
     "tvTypes": [
       "AsianDrama",
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
-    "fileSize": 111134,
-    "fileHash": "sha256-e9e152ca45014acb46df0bb35783c138f636a625a681a807bcf25dc61e205b98",
+    "status": 3,
+    "fileSize": 116348,
+    "fileHash": "sha256-dc92a8a9354a5243a7cf2074520c3d3f47a61afb474788250cc0ce262ff36d1b",
     "apiVersion": 1,
     "filesize": 116348,
-    "hash": "750daaa82e6cc5af78e2755c3dd1e706"
+    "hash": "dc92a8a9354a5243a7cf2074520c3d3f47a61afb474788250cc0ce262ff36d1b"
   },
   {
     "name": "freeDRAMA",
@@ -238,19 +238,19 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/freeDRAMA.cs3?v=5f3be1add82c",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/FreeDrama.cs3?v=5f3be1add82c",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/freeDRAMA.png",
     "tvTypes": [
       "AsianDrama",
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 3,
     "fileSize": 112363,
     "fileHash": "sha256-5f3be1add82c2cef629a32d448776b2ab930d3249d0ca16abd1eff42c61b59e2",
     "apiVersion": 1,
     "filesize": 112363,
-    "hash": "5df6fd6c535b076c6db87e3d3b8033c1"
+    "hash": "5f3be1add82c2cef629a32d448776b2ab930d3249d0ca16abd1eff42c61b59e2"
   },
   {
     "name": "oiDRAMA",
@@ -261,19 +261,19 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/oiDRAMA.cs3?v=3b72f04b0ba1",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/OiDrama.cs3?v=3b72f04b0ba1",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/oiDRAMA.png",
     "tvTypes": [
       "AsianDrama",
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 3,
     "fileSize": 112423,
     "fileHash": "sha256-3b72f04b0ba1ee8ab1193c2d4d00491470f89dce30a7abfbd76169346ef77289",
     "apiVersion": 1,
     "filesize": 112423,
-    "hash": "72e276febf25a3f45d878ada5e935ac7"
+    "hash": "3b72f04b0ba1ee8ab1193c2d4d00491470f89dce30a7abfbd76169346ef77289"
   },
   {
     "name": "Micro Drama",
@@ -291,12 +291,12 @@
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 3,
     "fileSize": 106689,
     "fileHash": "sha256-344d173b9703920725c42c2e31feb5205143e12f0229999050491b1ec363d6db",
     "apiVersion": 1,
     "filesize": 106689,
-    "hash": "7b4b6b7be3cc02ebd1fc2204f16beb05"
+    "hash": "344d173b9703920725c42c2e31feb5205143e12f0229999050491b1ec363d6db"
   },
   {
     "name": "MuseDrama",
@@ -314,12 +314,12 @@
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 3,
     "fileSize": 115593,
     "fileHash": "sha256-e557c4e2567d9e7463e882ed3d4e0d6242c3dcd408794d102c38c2639578c25d",
     "apiVersion": 1,
     "filesize": 115593,
-    "hash": "bf0646fc85dcbf44563011c34b2fcca5"
+    "hash": "e557c4e2567d9e7463e882ed3d4e0d6242c3dcd408794d102c38c2639578c25d"
   },
   {
     "name": "My Drama",
@@ -337,12 +337,12 @@
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 3,
     "fileSize": 115784,
     "fileHash": "sha256-8156294f1a79cfb2a923f465dfe0b9583bf567be453a092a00fa001379e611ef",
     "apiVersion": 1,
     "filesize": 115784,
-    "hash": "f9dc85b30340ad8a30e43847fa2278ca"
+    "hash": "8156294f1a79cfb2a923f465dfe0b9583bf567be453a092a00fa001379e611ef"
   },
   {
     "name": "Shot Short",
@@ -353,16 +353,16 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/ShotShort.cs3?v=4c1dd5783224",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/ShotShort.cs3?v=92d5fdfde5df",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/shotshort.png",
     "tvTypes": [
       "AsianDrama",
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
-    "fileSize": 110330,
-    "fileHash": "sha256-4c1dd5783224fe9cbd96fa9eebcb42c590d4644ae54e3ea7d550b211ff976b4b",
+    "status": 3,
+    "fileSize": 116106,
+    "fileHash": "sha256-92d5fdfde5df9b173245c7adcd92e6d6400751ec400afc8cf55463ee05612d34",
     "apiVersion": 1,
     "filesize": 116106,
     "hash": "92d5fdfde5df9b173245c7adcd92e6d6400751ec400afc8cf55463ee05612d34"
@@ -383,12 +383,12 @@
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 3,
     "fileSize": 115963,
     "fileHash": "sha256-3eb403e20577cf9311da0add0a860c1e750dc0cc06d0b1bdaf5829a4c8126419",
     "apiVersion": 1,
     "filesize": 115963,
-    "hash": "3d541b2a83b78de913882dcb0798d3c0"
+    "hash": "3eb403e20577cf9311da0add0a860c1e750dc0cc06d0b1bdaf5829a4c8126419"
   },
   {
     "name": "Mini Dizi İzle",
@@ -406,12 +406,12 @@
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 3,
     "fileSize": 110753,
     "fileHash": "sha256-8aac6b2adcf4f331ab3b4897bddfe28ebba62d842ca39ff07ccb4d99257f9c4e",
     "apiVersion": 1,
     "filesize": 110753,
-    "hash": "ecd7d69f6f417f92e6e24ee1923b4410"
+    "hash": "8aac6b2adcf4f331ab3b4897bddfe28ebba62d842ca39ff07ccb4d99257f9c4e"
   },
   {
     "name": "DramaVakti",
@@ -429,12 +429,12 @@
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
+    "status": 3,
     "fileSize": 107653,
     "fileHash": "sha256-d0b953cd19588a1e34f479fda4094e7bd444e49d90de89d0c7a620d69304565c",
     "apiVersion": 1,
     "filesize": 107653,
-    "hash": "5c151f1c755a08f0960057837c1000a4"
+    "hash": "d0b953cd19588a1e34f479fda4094e7bd444e49d90de89d0c7a620d69304565c"
   },
   {
     "name": "ShortMax",
@@ -445,18 +445,18 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioDrama",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/ShortMax.cs3?v=8d5f67e168ad",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/ShortMax.cs3?v=9190e6921f7d",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/ShortMax.png",
     "tvTypes": [
       "AsianDrama",
       "TvSeries"
     ],
     "language": "tr",
-    "status": 1,
-    "fileSize": 114206,
-    "fileHash": "sha256-8d5f67e168ade109e2642a8f5fffe7c5c9afa8bb8545f85f137ba9f233c9fc30",
+    "status": 3,
+    "fileSize": 107524,
+    "fileHash": "sha256-9190e6921f7d9eb7dd4485bd64759e5345511f5f5fd477d587d4ae54ecd49088",
     "apiVersion": 1,
     "filesize": 107524,
-    "hash": "db888a31b3d47040a6e2f234be3e8287"
+    "hash": "9190e6921f7d9eb7dd4485bd64759e5345511f5f5fd477d587d4ae54ecd49088"
   }
 ]
