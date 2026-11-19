@@ -4,11 +4,11 @@
   "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioDrama/main/assets/logo-20261004.png?rev=2",
   "manifestVersion": 2,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/plugins.json?t=1795034152"
+    "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/plugins.json?t=1795107118"
   ],
   "pluginCount": 20,
-  "timestamp": 1795034663,
-  "lastUpdated": 1795034663,
+  "timestamp": 1795107118,
+  "lastUpdated": 1795107118,
   "version": 15,
   "pluginVersion": 13
 }
